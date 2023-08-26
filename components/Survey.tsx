@@ -20,13 +20,11 @@ const Survey = () => {
           <h2 className=" text-3xl md:text-6xl font-bold pt-3 ">
             About our <span className=" text-green-500">Food</span>
           </h2>
-          <p className=" text-gray-700 pt-8">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam
-            similique explicabo reiciendis voluptatum
+          <p className=" text-gray-700  pt-8">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
           </p>
-          <p className=" text-gray-700 pt-8">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam
-            similique explicabo reiciendis voluptatum
+          <p className=" text-gray-700  pt-8">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
           </p>
         </div>
       </div>
