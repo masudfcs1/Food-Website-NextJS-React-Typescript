@@ -24,7 +24,7 @@ export default function Navbar() {
         </ul>
         <AiOutlineMenu
           className="md:hidden hover:cursor-pointer text-green-500 "
-          size={25}
+          size={27}
         />
       </div>
     </div>
