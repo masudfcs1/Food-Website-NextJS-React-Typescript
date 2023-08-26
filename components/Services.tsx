@@ -15,7 +15,7 @@ const servicesData = [
   },
   {
     img: "/services__3.png",
-    title: "Wine List",
+    title: "Drinks",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
   },
   {
