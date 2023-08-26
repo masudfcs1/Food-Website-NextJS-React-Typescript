@@ -27,7 +27,7 @@ const servicesData = [
 
 export default function Services() {
   return (
-    <div className="container pt-40">
+    <div className="container pt-[300px]">
       <div className="space-y-4 w-fit mx-auto text-center">
         <h2 className="text-4xl md:text-6xl font-bold">
           Choose Best <span className="text-green-500">Service</span>
