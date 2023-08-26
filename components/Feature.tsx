@@ -4,7 +4,7 @@ import Image from "next/image";
 import imgg1 from "../public/grid__1.png";
 export default function Feature() {
   return (
-    <div className=" container pt-40">
+    <div className=" container pt-20">
       <h2 className=" text-6xl font-bold ">Our</h2>
       <h2 className=" text-6xl font-bold pt-2">
         Feature <span className=" text-green-500">Food</span>
