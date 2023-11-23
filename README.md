@@ -6,10 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
 ```
 
 ![p1](https://github.com/masudfcs1/Food-Website-React-Typescript/assets/57311382/52737b84-b4c1-420e-a137-059656688220)
