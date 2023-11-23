@@ -1,8 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Food-Website-Nextjs-React-Typescript
+
+# [Live Demo](https://foodwebsite-livid.vercel.app/)
+Live Demo->https://foodwebsite-livid.vercel.app/
+
+The Food-Website, a React TypeScript web app with Tailwind CSS, excels in modern web development. React's components offer modularity, TypeScript ensures robust typing, and Tailwind CSS provides a streamlined styling experience. Together, they create a dynamic and visually appealing platform for an enhanced user experience in the world of food-oriented websites.
 
 ```bash
 npm run dev
