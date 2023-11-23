@@ -11,7 +11,7 @@ The Food-Website, a React TypeScript web app with Tailwind CSS, excels in modern
 npm run dev
 
 ```
-![Group 4](https://github.com/masudfcs1/Food-Website-React-Typescript/assets/57311382/d97919d8-6dc2-42c6-9e8e-c887b3323dfa)
+![Group 4 (1)](https://github.com/masudfcs1/Food-Website-NextJS-React-Typescript/assets/57311382/0becd573-70d0-4704-8d04-feb0e5418ac9)
 
 ![p1](https://github.com/masudfcs1/Food-Website-React-Typescript/assets/57311382/52737b84-b4c1-420e-a137-059656688220)
 ![p2](https://github.com/masudfcs1/Food-Website-React-Typescript/assets/57311382/f1a709f2-d20c-4db9-9374-c41027977cee)
